@@ -14,6 +14,7 @@
    - [CSS Animation性能优化](https://www.w3cplus.com/animation/animation-performance.html)
    - [CSS动画之硬件加速](https://www.w3cplus.com/css3/introduction-to-hardware-acceleration-css-animations.html)
    - [提高Web页面性能的技巧](https://www.w3cplus.com/performance/10-ways-minimize-reflows-improve-performance.html)
+ - [flipping](https://github.com/davidkpiano/flipping)
  
  ### 中后台
  - [react-admin](https://github.com/yezihaohao/react-admin)
